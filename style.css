@@ -1,0 +1,21 @@
+/* Write your CSS Here. */
+
+html{
+    background-color: lightgreen;
+}
+
+
+h1{
+    margin:auto;
+    margin-left: 50rem;
+}
+div{
+    margin: auto;
+    margin-left: 50rem;
+    margin-top: 10rem;
+}
+.gameOver{
+    margin: auto;
+    font-weight: bold;
+    font-size: 30px;
+}
